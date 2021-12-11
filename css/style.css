@@ -53,7 +53,12 @@ code, .header {
 .footer {
   color: #aaaaaa;
   font-size: 10px;
-  margin: 40px;
+  padding-left: 60px;
+  padding-top: 10px;
+}
+
+.footer span {
+  display: block;
 }
 
 .info {
