@@ -50,6 +50,12 @@ code, .header {
   font-weight: bold;
 }
 
+.footer {
+  color: #aaaaaa;
+  font-size: 10px;
+  margin: 40px;
+}
+
 .info {
   padding-left: 10px;
   margin-left: 20px;
