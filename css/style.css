@@ -64,7 +64,7 @@ code, .header {
 .info {
   padding-left: 10px;
   margin-left: 20px;
-  border-left: 2px dotted rgba(0, 0, 0, 0.6);
+  border-left: 2px solid rgba(0, 0, 0, 0.6);
 }
 
 .info span {
