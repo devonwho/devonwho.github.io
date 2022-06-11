@@ -1,6 +1,9 @@
 # devonwho.github.io
 
-todo: create a bootstrap page, maybe add some react
+todo: 
+* add a releases page
+* add a contact form in relation to lessons
+* add a lessons page with info about lessons and the flyer
 
 Icons from Bootstrap 5 docs, except:
 
