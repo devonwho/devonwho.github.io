@@ -1,72 +1,14 @@
-body, html {
-  margin: 40px;
-  margin-top: 40px;
-  color: #222;
-  background-color: #fff;
-  font-family: monospace;
-  font-size: 14px;
-  line-height: 20px;
-  text-size-adjust: 100%;
+body {
+  font-family: 'Courier New', monospace;
+  background: rgb(255, 255, 255);
+  /* background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(255, 211, 141, 1) 100%
+  ); */
 }
 
-a, a:visited {
-  color: #42ddf5;
-  text-decoration: none;
-}
-
-a:hover {
-  font-weight: bolder;
-  transition: 130ms linear;
-}
-
-input, input:focus {
-  border: none;
-  font-family: monospace;
-  font-size: 14px;
-  color: rgba(0, 0, 0, .55);
-  outline: none;
-}
-
-::selection {
-  background: rgba(55, 255, 0, .3);
-  padding: 6px;
-}
-
-hr {
-  width: 15%;
-  margin-left: 0px;
-}
-
-@keyframes fadeIn {
-  0% { opacity: 0; }
-  100% { opacity: 1; }
-}
-
-code, .header {
-  user-select: none;
-}
-
-.header {
-  font-weight: bold;
-}
-
-.footer {
-  color: #aaaaaa;
-  font-size: 10px;
-  padding-left: 60px;
-  padding-top: 10px;
-}
-
-.footer span {
-  display: block;
-}
-
-.info {
-  padding-left: 10px;
-  margin-left: 20px;
-  border-left: 2px solid rgba(0, 0, 0, 0.6);
-}
-
-.info span {
-  display: block;
+.icon {
+  height: 15px;
+  width: 15px;
 }

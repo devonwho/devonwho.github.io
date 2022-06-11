@@ -1,5 +1,9 @@
 # devonwho.github.io
 
-My first website in like nearly 20 years. I don't know much html or css but this will be a work in progress.
+todo: create a bootstrap page, maybe add some react
 
-Began with source code from Reid.cat
+Icons from Bootstrap 5 docs, except:
+
+Bandcamp Icon by [Icon-54](https://iconscout.com/contributors/icon-54)
+
+Soundcloud Icon by [Ma. Lourdes Suello](https://iconscout.com/contributors/ma-lourdes-suello).
